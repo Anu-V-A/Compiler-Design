@@ -1,0 +1,4 @@
+
+MOV R0.c
+MUL R0.d
+MOV t,R0
